@@ -6,9 +6,9 @@
 </p>
 
 
-![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=uta-s-dao&show_icons=true&theme=vue-black)
+![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=uta-s-dao&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uta-s-dao&layout=compact&theme=vue-black)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uta-s-dao&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=0-s0g0&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)-->
 <!--
