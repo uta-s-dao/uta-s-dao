@@ -1,24 +1,15 @@
 ## My Repositories
 
 <p align="left">
-<a href="https://github.com/uta-s-dao/OpenLive"><img src="https://img.shields.io/badge/HP-PORTFOLIO-blue"/></a>
-<a href="https://github.com/uta-s-dao/x-post-analyzer"><img src="https://img.shields.io/badge/HP-TSUNAGU-blue"/></a>
-<a href="https://github.com/Yiwashi/kitaQdenkiHP"><img src="https://img.shields.io/badge/HP-kitaQdenki-blue"/></a>
-<a href="https://github.com/StepByCode/HP"><img src="https://img.shields.io/badge/HP-StepByCode-blue"/></a>
-</p>
-<p align="left">
-<a href="https://github.com/0-s0g0/Atcoder"><img src="https://img.shields.io/badge/Study-AtCoder-orange"/></a>
-<a href="https://github.com/0-s0g0/studyforRuby"><img src="https://img.shields.io/badge/Study-Ruby-orange"/></a>
-<a href="https://github.com/0-s0g0/StudyForNext"><img src="https://img.shields.io/badge/Study-Next-orange"/></a>
-</p>
-</p>
-<p align="left">
-<a href="https://https://github.com/0-s0g0/tamalog"><img src="https://img.shields.io/badge/App-たまlog-green"/></a>
+<a href="https://github.com/uta-s-dao/OpenLive"><img src="https://img.shields.io/badge/HP-Openlive"/></a>
+<a href="https://github.com/uta-s-dao/x-post-analyzer"><img src="https://img.shields.io/badge/HP-x-post-analyzer"/></a>
+
 </p>
 
-![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=0-s0g0&show_icons=true&theme=vue-right)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-s0g0&layout=compact&theme=vue-right)](https://github.com/anuraghazra/github-readme-stats)
+![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=uta-s-dao&show_icons=true&theme=vue-right)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uta-s-dao&layout=compact&theme=vue-right)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=0-s0g0&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)-->
 <!--
