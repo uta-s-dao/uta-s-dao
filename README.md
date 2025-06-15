@@ -1,9 +1,8 @@
 ## My Repositories
 
 <p align="left">
-<a href="https://github.com/uta-s-dao/OpenLive"><img src="https://img.shields.io/badge/HP-Openlive"/></a>
-<a href="https://github.com/uta-s-dao/x-post-analyzer"><img src="https://img.shields.io/badge/HP-x-post-analyzer"/></a>
-
+<a href="https://github.com/uta-s-dao/OpenLive"><img src="https://img.shields.io/badge/HP-Openlive-blue"/></a>
+<a href="https://github.com/uta-s-dao/x-post-analyzer"><img src="https://img.shields.io/badge/HP-x-post-analyzer-blue"/></a>
 </p>
 
 
