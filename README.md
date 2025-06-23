@@ -1,11 +1,8 @@
 ## My Repositories
 
 <p align="left">
-<a href="https://github.com/uta-s-dao">
-    <img height="20" src="https://komarev.com/ghpvc/?username=uta-s-dao&color=orange" />
-</a>
-<a href="https://github.com/uta-s-dao/OpenLive"><img src="https://img.shields.io/badge/HP-Openlive-ff9966"/></a>
-<a href="https://github.com/uta-s-dao/x-post-analyzer"><img src="https://img.shields.io/badge/HP-x post analyzer-ff9966"/></a>
+<a href="https://github.com/uta-s-dao/OpenLive"><img src="https://img.shields.io/badge/HP-Openlive-orange"/></a>
+<a href="https://github.com/uta-s-dao/x-post-analyzer"><img src="https://img.shields.io/badge/HP-x post analyzer-orange"/></a>
 </p>
 
 <h3 align="left">Languages:</h3>
