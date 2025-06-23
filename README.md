@@ -4,8 +4,8 @@
   <a href="https://github.com/uta-s-dao">
     <img height="20" src="https://komarev.com/ghpvc/?username=uta-s-dao" />
   </a>
-<a href="https://github.com/uta-s-dao/OpenLive"><img src="https://img.shields.io/badge/HP-Openlive-blue"/></a>
-<a href="https://github.com/uta-s-dao/x-post-analyzer"><img src="https://img.shields.io/badge/HP-x post analyzer-blue"/></a>
+<a href="https://github.com/uta-s-dao/OpenLive"><img src="https://img.shields.io/badge/HP-Openlive-orange"/></a>
+<a href="https://github.com/uta-s-dao/x-post-analyzer"><img src="https://img.shields.io/badge/HP-x post analyzer-orange"/></a>
 </p>
 
 <h3 align="left">Languages:</h3>
@@ -16,13 +16,13 @@
 </p>
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uta-s-dao&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uta-s-dao&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uta-s-dao&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=uta-s-dao&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uta-s-dao&theme=algolia&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uta-s-dao&theme=calm)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uta-s-dao&theme=calm)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uta-s-dao&theme=calm)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=uta-s-dao&theme=calm)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uta-s-dao&theme=calm&utcOffset=8)
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=uta-s-dao&theme=algolia)
+![trophy](https://github-profile-trophy.vercel.app/?username=uta-s-dao&theme=calm)
 
 
 
