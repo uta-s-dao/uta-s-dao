@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/uta-s-dao">
-    <img height="20" src="https://komarev.com/ghpvc/?username=Tsubasa-2005" />
+    <img height="20" src="https://komarev.com/ghpvc/?username=uta-s-dao" />
   </a>
 <a href="https://github.com/uta-s-dao/OpenLive"><img src="https://img.shields.io/badge/HP-Openlive-blue"/></a>
 <a href="https://github.com/uta-s-dao/x-post-analyzer"><img src="https://img.shields.io/badge/HP-x post analyzer-blue"/></a>
@@ -19,8 +19,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=uta-s-dao&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uta-s-dao&theme=gruvbox&utcOffset=9)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uta-s-dao&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uta-s-dao&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api?username=uta-s-dao&show_icons=true&theme=vue-dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uta-s-dao&layout=compact&theme=vue-dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uta-s-dao&theme=gruvbox)
 
 ## Trophy
