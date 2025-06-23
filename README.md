@@ -16,11 +16,12 @@
 </p>
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uta-s-dao&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uta-s-dao&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uta-s-dao&theme=gruvbox)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=uta-s-dao&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uta-s-dao&theme=gruvbox&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uta-s-dao&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uta-s-dao&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uta-s-dao&theme=gruvbox)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=uta-s-dao&theme=gruvbox)
