@@ -1,8 +1,7 @@
 ## My Repositories
 
-<h1 align="center">Hi 👋, I'm uta-s-dao</h1>
 <p align="left">
-  <a href="https://github.com/Tsubasa-2005">
+  <a href="https://github.com/uta-s-dao">
     <img height="20" src="https://komarev.com/ghpvc/?username=Tsubasa-2005" />
   </a>
 <a href="https://github.com/uta-s-dao/OpenLive"><img src="https://img.shields.io/badge/HP-Openlive-blue"/></a>
@@ -26,12 +25,10 @@
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=uta-s-dao&theme=gruvbox)
 
-
 ![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=uta-s-dao&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uta-s-dao&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-----------------------------------------------
 
 
 
