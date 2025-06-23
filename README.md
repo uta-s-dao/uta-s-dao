@@ -22,7 +22,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=uta-s-dao&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uta-s-dao&theme=algolia&utcOffset=8)
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=uta-s-dao&theme=gruvbox)
+![trophy](https://github-profile-trophy.vercel.app/?username=uta-s-dao&theme=algolia)
 
 
 
