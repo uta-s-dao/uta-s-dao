@@ -19,7 +19,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=uta-s-dao&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uta-s-dao&theme=gruvbox&utcOffset=9)
-![](https://github-readme-stats.vercel.app/api?username=uta-s-dao&show_icons=true&theme=gruvbox)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uta-s-dao&layout=compact&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uta-s-dao&theme=gruvbox)
 
