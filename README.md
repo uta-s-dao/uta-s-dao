@@ -1,4 +1,4 @@
-## profile
+## Profile
 https://yutasaruwatari.vercel.app
 
 ## Stats
